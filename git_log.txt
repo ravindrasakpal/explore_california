@@ -1,0 +1,218 @@
+$ git log
+commit eb419fd78413393bc669d34469e083503fd738fb (HEAD -> master)
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 16:41:28 2019 +1100
+
+    Rearranged resources
+
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 13:12:30 2019 +1100
+
+    Changed something new
+
+commit 2e13c60d740b26bc4b560d13fec6e437f3226361
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 13:08:59 2019 +1100
+
+    Revert "Revert "Removed contractions from contact page""
+
+    This reverts commit 103e4aeea33b429fdfd756e4609266f4dcf7e028.
+
+commit 38e81f9f9776b449776329c41d2776ab66df9217
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 13:07:28 2019 +1100
+
+    Changed something
+
+commit 103e4aeea33b429fdfd756e4609266f4dcf7e028
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 13:03:01 2019 +1100
+
+    Revert "Removed contractions from contact page"
+
+    This reverts commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647.
+
+commit afd90b54ec5965a30725365fc700df9190ef1f9f
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 13:01:38 2019 +1100
+
+    Items rearranged
+
+commit d2cbda19a3461b7af147d92afa1a99d1847ba303
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 12:56:16 2019 +1100
+
+    Revert "Revert "Removed contractions from contact page""
+
+    This reverts commit 834afd7c27100c6e6223470c36f3421cfea02523.
+
+commit 7f50de3bb41c641d501eb8d7b46e2b51310f1c50
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 12:54:39 2019 +1100
+
+    Rearrange the items to bring on a trip
+
+commit 834afd7c27100c6e6223470c36f3421cfea02523
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 12:42:19 2019 +1100
+
+    Revert "Removed contractions from contact page"
+
+    This reverts commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647.
+
+commit ee06adac020d6d9205a69acf9b1ea0c47391d8db
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 10:31:11 2019 +1100
+
+    Rearrange the items to bring on a trip
+
+commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:12:32 2019 +1100
+
+    Removed contractions from contact page
+
+commit 6b6b3428193db1a26c1020fdd1604891a904eacc
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:09:24 2019 +1100
+
+    Removed contractions from contact page
+
+
+    Revert "Removed contractions from contact page"
+
+    This reverts commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647.
+
+commit ee06adac020d6d9205a69acf9b1ea0c47391d8db
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 10:31:11 2019 +1100
+
+    Rearrange the items to bring on a trip
+
+commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:12:32 2019 +1100
+
+    Removed contractions from contact page
+
+commit 6b6b3428193db1a26c1020fdd1604891a904eacc
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:09:24 2019 +1100
+
+    Removed contractions from contact page
+
+commit ef7e615317fbbf18388c06a085dde3455f6d0350
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:06:40 2019 +1100
+
+    Renamed backpack cal for clarity
+
+commit 02d7c3d1fb9e3b63077ac8942e04c90c3741c110
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 10:23:52 2019 +1100
+
+    added .html
+
+...skipping...
+commit 834afd7c27100c6e6223470c36f3421cfea02523
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 12:42:19 2019 +1100
+
+    Revert "Removed contractions from contact page"
+
+    This reverts commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647.
+
+commit ee06adac020d6d9205a69acf9b1ea0c47391d8db
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 10:31:11 2019 +1100
+
+    Rearrange the items to bring on a trip
+
+commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:12:32 2019 +1100
+
+    Removed contractions from contact page
+
+commit 6b6b3428193db1a26c1020fdd1604891a904eacc
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:09:24 2019 +1100
+
+    Removed contractions from contact page
+
+
+    Revert "Removed contractions from contact page"
+
+    This reverts commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647.
+
+commit ee06adac020d6d9205a69acf9b1ea0c47391d8db
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 10:31:11 2019 +1100
+
+    Rearrange the items to bring on a trip
+
+commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:12:32 2019 +1100
+
+    Removed contractions from contact page
+
+commit 6b6b3428193db1a26c1020fdd1604891a904eacc
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:09:24 2019 +1100
+
+    Removed contractions from contact page
+
+commit ef7e615317fbbf18388c06a085dde3455f6d0350
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:06:40 2019 +1100
+
+    Renamed backpack cal for clarity
+
+commit 02d7c3d1fb9e3b63077ac8942e04c90c3741c110
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 10:23:52 2019 +1100
+
+    added .html
+
+...skipping...
+commit 834afd7c27100c6e6223470c36f3421cfea02523
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 12:42:19 2019 +1100
+
+    Revert "Removed contractions from contact page"
+
+    This reverts commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647.
+
+commit ee06adac020d6d9205a69acf9b1ea0c47391d8db
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 10:31:11 2019 +1100
+
+    Rearrange the items to bring on a trip
+
+commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:12:32 2019 +1100
+
+    Removed contractions from contact page
+
+commit 6b6b3428193db1a26c1020fdd1604891a904eacc
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:09:24 2019 +1100
+
+    Removed contractions from contact page
+
+commit ef7e615317fbbf18388c06a085dde3455f6d0350
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:06:40 2019 +1100
+
+    Renamed backpack cal for clarity
+
+commit 02d7c3d1fb9e3b63077ac8942e04c90c3741c110
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 10:23:52 2019 +1100
+
+    added .html
+
+commit 430fe5a1c38ce6f180771ab7dfc6e245540b68d4
+
