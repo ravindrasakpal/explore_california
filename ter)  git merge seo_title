@@ -1,0 +1,97 @@
+[33mcommit d0de5a729e1b1144db9322aa6f20093f1da348b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mseo_title[m[33m)[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Sat Nov 16 12:19:24 2019 +1100
+
+    Corrected title of index.html
+
+[33mcommit 80179ccc903676f7593c0f985e0c86949d09ae93[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Sat Nov 16 12:07:39 2019 +1100
+
+    Modified title of index.html
+
+[33mcommit 60051df3500018317c4912794e609849598baa4d[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Fri Nov 15 10:45:12 2019 +1100
+
+    added an empty directory with .gitkeep file in it
+
+[33mcommit 4e3467dbc01c5836ed20f96b8a44f9b9bfd22143[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Fri Nov 15 10:28:01 2019 +1100
+
+    added .gitignore
+
+[33mcommit 46e62446dd94439eba6d4bf544c9d0f3c8398356[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Fri Nov 15 09:24:47 2019 +1100
+
+    Add .gitignore file
+
+[33mcommit 4c1ccf81f37f3e0ebbc801575af6901353e6a35c[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 19:36:01 2019 +1100
+
+    Moved sunglasses in pos no.2
+
+[33mcommit b3088894c8837c398748bfe06efac6847201cfb8[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 19:32:39 2019 +1100
+
+    this is an old commit
+
+[33mcommit 7f50de3bb41c641d501eb8d7b46e2b51310f1c50[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 12:54:39 2019 +1100
+
+    Rearrange the items to bring on a trip
+
+[33mcommit 834afd7c27100c6e6223470c36f3421cfea02523[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 12:42:19 2019 +1100
+
+    Revert "Removed contractions from contact page"
+    
+    This reverts commit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647.
+
+[33mcommit ee06adac020d6d9205a69acf9b1ea0c47391d8db[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Thu Nov 14 10:31:11 2019 +1100
+
+    Rearrange the items to bring on a trip
+
+[33mcommit 378cdcdf11a7b5c9d7c9108ed34d335c37ff9647[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:12:32 2019 +1100
+
+    Removed contractions from contact page
+
+[33mcommit 6b6b3428193db1a26c1020fdd1604891a904eacc[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:09:24 2019 +1100
+
+    Removed contractions from contact page
+
+[33mcommit ef7e615317fbbf18388c06a085dde3455f6d0350[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 11:06:40 2019 +1100
+
+    Renamed backpack cal for clarity
+
+[33mcommit 02d7c3d1fb9e3b63077ac8942e04c90c3741c110[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 10:23:52 2019 +1100
+
+    added .html
+
+[33mcommit 430fe5a1c38ce6f180771ab7dfc6e245540b68d4[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 10:21:40 2019 +1100
+
+    Changed 24 hour support from 4314 to 4315
+
+[33mcommit b3294ed44e21400b72588d101fe47d005af1f836[m
+Author: RaviSakpal <sunlax83@gmail.com>
+Date:   Wed Nov 13 09:43:43 2019 +1100
+
+    Initial Commit
